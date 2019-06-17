@@ -1,0 +1,102 @@
+@media all and (max-width: 1200px) {/***************************/
+.section_2_text_column1{
+width:62%;
+float:left;
+margin-left:1.6%;
+}
+
+.section_2_text_column2{
+width:32%;
+float:right;
+margin-right:1.6%;
+}
+
+.section_2_text_column3{
+width:35%;
+float:left;
+margin-left:32.5%;
+}
+}
+
+@media all and (max-width: 1100px) {/***************************/
+.section_1_p{ 
+width:72.7%;
+}
+
+.section_1_text button{
+margin-top:55px;
+}
+}
+
+@media all and (max-width: 850px) {/***************************/
+.section_1_p{ 
+width:97%;
+}
+
+.section_1_text button{
+margin-top:35px;
+}
+}
+ 
+@media all and (max-width: 750px) {/***************************/
+.navbar_menu li{ 
+display:block;
+padding-bottom:2px;
+}
+
+.navbar_menu li:last-child{ 
+display:block;
+padding-bottom:0px;
+}
+
+.header_menu_input {
+margin-top:29px;
+}
+
+.section_2_text_column1{
+width:90%;
+float:left;
+margin-left:5%;
+}
+
+.section_2_text_column2{
+width:60%;
+float:left;
+margin-left:20%;
+}
+
+.section_2_text_column3{
+width:60%;
+float:left;
+margin-left:20%;
+}
+} 
+
+@media all and (max-width: 600px) {/***************************/
+.header_logo p{
+display: none;
+}
+} 
+
+@media all and (max-width: 400px) {/***************************/
+.header_logo nav {
+display: none;
+}
+
+.header_logo_img{
+margin-left:31.64%;
+}
+} 
+
+@media all and (max-width: 396px) {/***************************/
+.header_menu_input {
+margin-top:0px;
+margin-right:14.4%;
+width:68.23%;
+}
+
+.navbar_menu{
+margin-bottom:10px;
+margin-left:35.88%;
+}
+}
